@@ -15,7 +15,7 @@ module.exports = {
 			},
 			backgroundImage: {
 				"gradient-1": "linear-gradient(90deg, rgba(253, 111, 0, 1) 0%, rgba(144, 36, 182, 1) 100%)",
-				"gradient-2": "linear-gradient(90deg, var(--orange) 0%, var(--purple) 50%)",
+				"gradient-2": "linear-gradient(90deg, rgba(253, 111, 0, 1) 0%, rgba(144, 36, 182, 1) 50%)",
 				"gradient-3": "linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(253, 111, 0, 1) 1%, rgba(144, 36, 182, 1) 100%)",
 			},
 			transitionTimingFunction: {

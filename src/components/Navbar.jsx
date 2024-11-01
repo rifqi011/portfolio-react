@@ -6,9 +6,9 @@ const Navbar = () => {
 	return (
 		<div className="w-full bg-black py-4 fixed z-[99999]">
 			<div className="container flex items-center justify-between">
-                <Logo size={"big"}/>
+				<Logo />
 
-                <MenuList />
+				<MenuList />
 			</div>
 		</div>
 	);

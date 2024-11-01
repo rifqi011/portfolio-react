@@ -111,3 +111,7 @@ body {
 	width: 80%;
 	margin-inline: auto;
 }
+
+.section {
+	min-height: 100vh;
+}
