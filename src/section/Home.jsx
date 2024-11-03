@@ -1,7 +1,7 @@
 import React from "react";
 import HomeImage from "./../assets/img/home.png";
-import SocialLinks from "./SocialLinks";
-import ButtonPrimary from "./ButtonPrimary";
+import SocialLinks from "../components/SocialLinks";
+import ButtonPrimary from "../components/ButtonPrimary";
 
 const Home = () => {
 	return (
