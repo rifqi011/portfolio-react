@@ -13,11 +13,13 @@ const Home = () => {
 					<span className="headline font-bold bg-gradient-to-r from-orange via-purple to-purple bg-clip-text text-transparent bg-[length:200%] cursor-pointer transition-all duration-700 ease-in-out hover:bg-[length:100%] hover:bg-position-[right] hover:drop-shadow-[0px_0px_5px_#9024b6]">Rifqi Banu Safingi</span>
 				</h1>
 				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque quae, odio numquam magni qui nisi officiis mollitia a magnam amet?</p>
-			
-                <SocialLinks />
 
-                <ButtonPrimary content={"Contact"} icon={"bx-paper-plane"}/>
-            </div>
+				<SocialLinks />
+
+				<a href="#contact">
+					<ButtonPrimary content={"Contact"} icon={"bx-paper-plane"} />
+				</a>
+			</div>
 			<div className="basis-2/5">
 				<img src={HomeImage} className="w-full" alt="HomeImage" />
 			</div>
