@@ -12,7 +12,7 @@ const SkillsData = [
 const Skills = () => {
 	return (
 		<section id="skills" className="flex flex-col items-center gap-12 py-20 container">
-			<SectionTitle title={"skills"} description={"my expertise"} alignment={"center"} />
+			<SectionTitle title={"skills"} description={"my expertise"} alignment={"text-center"} />
 
 			<div className="grid grid-cols-2 justify-center mx-auto gap-5">
 				{SkillsData.map((skill, index) => (

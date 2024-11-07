@@ -1,14 +1,13 @@
-import React from "react";
 import GithubIcon from "./../assets/icon/github.svg";
 import InstagramIcon from "./../assets/icon/instagram.svg";
 import LinkedinIcon from "./../assets/icon/linkedin.svg";
 import XIcon from "./../assets/icon/x.svg";
 
 const socialLinksData = [
-	{ href: "https://instagram.com", alt: "Instagram", src: InstagramIcon },
-	{ href: "https://x.com", alt: "X", src: XIcon },
-	{ href: "https://linkedin.com", alt: "LinkedIn", src: LinkedinIcon },
-	{ href: "https://github.com", alt: "GitHub", src: GithubIcon },
+	{ href: "https://www.instagram.com/alcyoneuzz?igsh=enVnaTBibnB1MjZx", alt: "Instagram", src: InstagramIcon },
+	{ href: "https://x.com/bukananaksd", alt: "X", src: XIcon },
+	{ href: "https://www.linkedin.com/in/rifqi-banu-safingi-94b36b302/", alt: "LinkedIn", src: LinkedinIcon },
+	{ href: "https://github.com/rifqi011", alt: "GitHub", src: GithubIcon },
 ];
 
 const SocialLinks = () => {

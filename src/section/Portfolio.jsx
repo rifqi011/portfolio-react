@@ -13,10 +13,10 @@ const Portfolio = () => {
 	return (
 		<section id="portfolio" className="section container flex flex-col py-20 gap-12">
 			<div className="flex justify-between">
-				<SectionTitle title={"portfolio"} description={"latest project"} alignment={"left"} />
+				<SectionTitle title={"portfolio"} description={"latest project"} />
 
 				<div className="flex items-center">
-					<a href="">
+					<a href="/public/portfolio">
 						<ButtonPrimary content={"All works"} icon={"bx-chevron-right"} />
 					</a>
 				</div>
