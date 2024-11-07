@@ -1,5 +1,3 @@
-import React from "react";
-
 const ButtonPrimary = ({ content, event, icon }) => {
 	return (
 		<button onClick={event} className="group relative text-lg capitalize font-medium text-black flex justify-between items-center transition-all duration-500">

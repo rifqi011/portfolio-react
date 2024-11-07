@@ -1,4 +1,3 @@
-import React from "react";
 import LogoImage from "./../assets/img/logo.png"; // Pastikan nama import logo tidak sama dengan komponen
 
 const Logo = () => {

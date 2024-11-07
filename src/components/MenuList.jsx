@@ -1,5 +1,3 @@
-import React from "react";
-
 const MenuList = () => {
 	return (
 		<ul className="flex gap-4">
